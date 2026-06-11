@@ -42,6 +42,12 @@
     "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779283751&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=678f1f8ec03b1af7b76d013d33f45198"
   },
   {
+    "name": "BTV",
+    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",
+    "group": "Entertainment",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
+  },
+  {
     "name": "BTV-Chittagong",
     "logo": "https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc",
     "group": "Imported",
@@ -6850,12 +6856,6 @@
     "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",
     "group": "Kids",
     "url": "https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8"
-  },
-  {
-    "name": "BTV",
-    "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png",
-    "group": "Entertainment",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
   },
   {
     "name": "Al Jazeera",
